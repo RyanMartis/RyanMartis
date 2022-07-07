@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**RyanMartis/RyanMartis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Ansible automation and SAS Administration projects at work
+- 🌱 I’m currently learning python to do some OS scripting and maybe pick up some SWE concepts
+- 💬 Ask me about SysAdmin / Cloud / Linux stuff
+- 📫 How to reach me: @ryanmartis for instagram, website soon (https://ryanmartis.github.io/ but needs work)
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
